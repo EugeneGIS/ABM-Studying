@@ -13,5 +13,5 @@ Coding:
 
 Steven F. Railsback and Volker Grimm. Agent-Based and Individual-Based Modeling: A Practical Introduction, Second Edition (https://press.princeton.edu/books/ebook/9780691190044/agent-based-and-individual-based- modeling)
 
-
+https://www.abmgis.org/
 
